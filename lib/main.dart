@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'screens/loading_screen.dart';
+import 'package:geolocator/geolocator.dart';
 
 void main() => runApp(const MyApp());
 
